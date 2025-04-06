@@ -1,0 +1,1 @@
+![Sword Catcher Investment Progression](https://github.com/zeryth/dump/blob/main/sword-catcher-progression.png)
