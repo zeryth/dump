@@ -3,3 +3,5 @@
 
 # Book 2 Enjoyment Expectation:
 ![Ragpicker King Investment Progession Expectation](./progression-expectation-book-2.png)
+
+asdlfkjsadf
